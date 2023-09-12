@@ -25,10 +25,10 @@ echo "
 စိတ်ထဲမှာ အက်ကြောင်းထပ်နေအောင် မှတ်မိသွားခဲ့တာ
 </font></h3>
 
-<h3><font color='green'>--- ۩ SERVER BY KHAM ۩ ---
+<h3><font color='green'>--- ۩ 𝕊𝔼ℝ𝕍𝔼ℝ 𝔹𝕐 𝕂ℍ𝔸𝕄 ۩ ---
 </font></h3>
 
-<h4><font color='cyan'>Telegram Channel >> https://t.me/gcpoutlineserver1
+<h4><font color='cyan'>𝕋ℍ𝔸ℕ𝕂 𝕐𝕆𝕌 𝟜𝟘𝟜 𝔹ℝ𝕆
 </font></h4>
 
 <h4><font color='blue'>Telegram Channel >> https://t.me/gcpoutlineserver1
